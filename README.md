@@ -13,4 +13,4 @@ This will have a  ~~strikethrough~~
 
 This is a chart I made in an earlier video lesson: 
 
->![This is a data wrapper chart](Screen Shot 2024-07-29 at 12.05.12 AM.png)
+![This is a data wrapper chart](Datawrapper.png)
